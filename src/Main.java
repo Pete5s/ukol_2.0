@@ -2,7 +2,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
 
-class Guest {
+class Main {
     private String firstName;
     private String lastName;
     private LocalDate birthDate;
